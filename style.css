@@ -5,9 +5,9 @@ body{
 
 }
 #profile-container{
-    max-width: 300px;
+    max-width: 284px;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid black;
     border-radius: 6px;
 }
 #profile-images{
@@ -23,7 +23,6 @@ body{
     height: 50px;
     line-height: 50px;
     background-color: turquoise;
-    background-color: 50;
     text-align: center;
     color: white;
 }
@@ -36,4 +35,3 @@ body{
     text-align: center;
     color: white;
 }
->
